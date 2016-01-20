@@ -1,0 +1,9 @@
+('C:\\Users\\mathiasr\\OneDrive\\imageEdit\\dist\\imageedit.exe',
+ True,
+ False,
+ 'imageedit.ico',
+ None,
+ [],
+ None,
+ False,
+ 1437997469L)
