@@ -11,7 +11,7 @@
 __author__      = "Mathias Rohler"
 __copyright__   = "Copyright 2015, ModuleWorks"
 
-import wx, os, sys
+import wx, os, sys, git
 # What to do that import of PIL works, when you get the error message that module wasn't found.
 # Install PIL and Pillow with an installer of your choice. (easy_install)
 # Now import should work
